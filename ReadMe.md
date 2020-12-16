@@ -5,7 +5,7 @@ To run (for Macs):
 2. `g++ -std=c++14 main.cpp`
 3. `./a.out`
 
-Running this project will create 244 csv files, 46 of which were data used for this project's analysis report, and remaining 198 of which are data file of graphs that indicate each of a constructed graph's vertex id, its color, original degree, degree when the vertex was deleted, all listed in the order in which the vertices were colored. 
+Running this project will create 244 csv files, 46 of which are data files used for this project's analysis report, and remaining 198 of which are files of graphs that indicate each of the constructed graph's vertices' id number, color, original degree, degree when the vertex was deleted, all in the order in which the vertices were colored. 
 
 * 198 distinct graphs were generated since there are:
 * 3 distinct vertex distributions
