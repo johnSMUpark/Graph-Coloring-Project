@@ -9,7 +9,7 @@ Running this project will create 244 csv files, 46 of which were data used for t
 
 198 distinct graphs were generated since there are:
 3 distinct vertex distributions
-11 tiers of density:
+11 density levels:
     1. Cycle
     2. Randomly-generated graph with 10% of max number of vertices
     3. Randomly-generated graph with 20% of max number of vertices
