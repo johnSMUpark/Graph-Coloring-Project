@@ -1,4 +1,4 @@
-Graph Coloring Project for CS 5350
+## Graph Coloring Project for CS 5350
 
 To run (for Macs):
 1. `cd` into `Source Code` directory
