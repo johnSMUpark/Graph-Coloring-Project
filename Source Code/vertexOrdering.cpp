@@ -1,3 +1,5 @@
+// John Park (446 88 167)
+
 struct VertexEntry {
   List vertices;
   int degree = 0;

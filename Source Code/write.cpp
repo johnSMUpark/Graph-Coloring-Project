@@ -1,3 +1,5 @@
+// John Park (446 88 167)
+
 void writeToFileHistogram(Vector& vertices, string fileName) {
   ofstream out(fileName + ".csv"); // create file w/ specified name
   out << "Vertex" << endl;

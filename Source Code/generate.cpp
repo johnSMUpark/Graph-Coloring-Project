@@ -1,3 +1,5 @@
+// John Park (446 88 167)
+
 // distributionType Uniform, Skewed, Normal
 // graphType Complete, Cycle, Random
 // orderType SL, SODL, RAND, INC, BFS, DFS

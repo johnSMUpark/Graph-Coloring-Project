@@ -1,3 +1,5 @@
+// John Park (446 88 167)
+
 enum DistributionType { Uniform, Skewed, Normal };
 enum GraphType { Complete, Cycle, Random };
 enum OrderType { SL, SODL, RAND, INC, BFS, DFS };

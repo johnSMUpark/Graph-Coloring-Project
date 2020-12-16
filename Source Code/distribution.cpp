@@ -1,3 +1,5 @@
+// John Park (446 88 167)
+
 Vector uniform(int numVertices) {
   Vector vec(numVertices);
   for (int i = 0; i < numVertices; ++i) vec.pushBack(i);

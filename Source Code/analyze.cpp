@@ -1,3 +1,5 @@
+// John Park (446 88 167)
+
 // generate histogram based on distribution types Uniform, Skewed, Normal
 void generateHistogram(int numVertices = NUM_VERTICES) { // default # of vertices = 100
   cout << "Generating data Vertex Distribution for Histogram..." << endl;

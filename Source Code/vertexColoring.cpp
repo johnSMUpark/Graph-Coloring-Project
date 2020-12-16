@@ -1,3 +1,5 @@
+// John Park (446 88 167)
+
 int getMinColor(int numVertices, int currVertex, VertexEntry *vertexTracker) {
   bool *availableColors = new bool[numVertices + 1]; // init available colors
   for (int i = 1; i < numVertices + 1; ++i) availableColors[i] = true;

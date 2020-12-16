@@ -1,3 +1,5 @@
+// John Park (446 88 167)
+
 string distributionToStr(int distributionType) { 
   switch (distributionType) {       // int distribution index to
     case Uniform: return "Uniform"; // string distribution name

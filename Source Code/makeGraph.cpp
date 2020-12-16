@@ -1,3 +1,5 @@
+// John Park (446 88 167)
+
 Graph cycle(Vector& vertices) {
   Set set(vertices);
   Vector uniqueVertices = set.toVec();
